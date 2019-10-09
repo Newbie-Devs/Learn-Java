@@ -1,8 +1,8 @@
 //every program in Java must have a class;
 //in Java each code statement must end with a semicolon;
 //don't use semicolons after method and class declaration;
-public class Solar {
-//Solar is the name of the class;
+public class Learn {
+//Learn is the name of the class;
 //A single-line comment starts with two forward slashes;
 //Note that every single-line comment must and with a semicolon;
   public static void main(String[] args) {
