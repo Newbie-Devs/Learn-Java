@@ -14,7 +14,7 @@ public class Learn {
 //println method prints a line of text;
 //the System class and it's out stream are used to access the println method;
    System.out.print("Hello World 2"); 
-
-   System.out.println("Hello World 4\n"); 
+//print method prints the text without creating a new code line
    }
-}   
+}
+
