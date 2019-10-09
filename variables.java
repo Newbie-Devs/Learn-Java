@@ -6,10 +6,9 @@ int number = 3;
 //as you can see above, there are 4 indicators to initialize a variable
 //the first(int in this example) indicates the value type
 //the second is the variable name, in this case number
-//the third is the = (equal) simbol, which inizializate the variable to a value
+//the third is the = (equal) simbol, which initialize the variable to a value
 //the fourth is the value itself (in this case 3) that is assigned to the variable
-/*the semicolon at the end of the line is just a piece of the java syntax, it means the line of code finishes,
-you're obligated to add it or else the console will give a syntax error*/
+
 
 //The value types are:
 //int (stands for integer), this value is a number without decimals
