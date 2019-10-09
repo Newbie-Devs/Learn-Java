@@ -18,7 +18,7 @@ int number = 3;
 String name = "David";
 //this creates a variable called name of type string and assigns it the value "David"
 //bool (stands for boolean), this value can be only true or false, its value can be setted by typing only true or false, without the ""
-//all this value types must be written in the variable inizialization ahead of the varable's name
+//all this value types must be written in the variable initialization ahead of the varable's name
 
 //examples of variable declarations:
 class MyClass {
