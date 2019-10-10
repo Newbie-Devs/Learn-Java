@@ -21,7 +21,7 @@ String name = "David";
 //all this value types must be written in the variable initialization ahead of the varable's name
 
 //examples of variable declarations:
-class MyClass {
+class Solar {
   public static void main(String[] args) {
     String name ="David";
     int age = 18;
