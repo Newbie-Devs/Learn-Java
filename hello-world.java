@@ -4,7 +4,7 @@
 public class Learn {
 //Learn is the name of the class;
 //A single-line comment starts with two forward slashes;
-//Note that every single-line comment must and with a semicolon;
+//Note that every single-line comment must end with a semicolon;
   public static void main(String[] args) {
 //void indicate that a method doesn't return a value;
 //main is the name of the method;
