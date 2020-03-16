@@ -6,8 +6,8 @@ public class Learn {
 //A single-line comment starts with two forward slashes;
 //Note that every single-line comment must end with a semicolon;
   public static void main(String[] args) {
-//static means that method can be run without creating 
-an instance of the class containing the mail method;
+/* static means that method can be run without creating 
+an instance of the class containing the mail method */
 //void indicate that a method doesn't return a value;
 //main is the name of the method;
 /*method's parameters are declared inside the 
