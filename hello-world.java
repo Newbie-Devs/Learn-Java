@@ -17,7 +17,7 @@ parentheses that follow the name of the method */
 //println method prints a line of text;
 //the System class and it's out stream are used to access the println method;
    System.out.print("Hello World 2"); 
-//print method prints the text without creating a new code line
+//print method prints the text without creating a new code line;
    }
 }
 
