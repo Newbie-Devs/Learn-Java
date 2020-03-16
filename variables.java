@@ -10,7 +10,7 @@ int number = 3;
 //the fourth is the value itself (in this case 3) that is assigned to the variable
 
 
-//The value types are:
+//Variables have types:
 //int (stands for integer), this value is a number without decimals
 //double, this value can be both values with or without decimals, but will automatically add a .0 if there is an integer number in it 
 //char (stands for character), this value is a single text caracter, its value can be setted with the ''
