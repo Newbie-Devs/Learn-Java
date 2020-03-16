@@ -8,8 +8,8 @@ public class Learn {
   public static void main(String[] args) {
 //void indicate that a method doesn't return a value;
 //main is the name of the method;
-/*method's parameters are declared inside the 
-parentheses that follow the name of the method*/
+//method's parameters are declared inside the 
+parentheses that follow the name of the method//
    System.out.println("Hello World");
 //this is the body of the main method, enclosed in curly braces;
 //println method prints a line of text;
