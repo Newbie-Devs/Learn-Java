@@ -3,13 +3,13 @@
 //the name uniquely identifies each variable, assigning a value to the variable and retrieving the value stored;  
 
 //Variables have types:
-//int (stands for integer), this value is a number without decimals
+//int (integer, whole numbers ), this value is a number without decimals
 //double, this value can be both values with or without decimals, but will automatically add a .0 if there is an integer number in it 
-//char (stands for character), this value is a single text caracter, its value can be setted with the ''
-//string, this value is made out of multiple chars which forms a line of text, its value can be setted with the ""
+//char (stands for character), this value is a single text character. 
+//string, this value is made out of multiple chars which forms a line of text. 
 String name = "David";
 //this creates a variable called name of type string and assigns it the value "David"
-//bool (stands for boolean), this value can be only true or false, its value can be setted by typing only true or false, without the ""
+//bool (stands for boolean), this value can be only true or false. This data type is used for simple flags that track true/false conditions. 
 //all this value types must be written in the variable initialization ahead of the varable's name
 
 //examples of variable declarations:
