@@ -28,3 +28,4 @@ int sut3 = sut1 - sut2;
 /*Just like in algebra, you can use both of the operations in
 a single line */
 int pro = 10 + 5 - 2;
+//The * operator multiplies two values.
