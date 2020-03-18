@@ -1,14 +1,6 @@
 //variables store data for processing;
 //a variable is given a name (or identifier) such as area or age;
 //the name uniquely identifies each variable, assigning a value to the variable and retrieving the value stored;  
-int number = 3; 
-//this is an example of a variable
-//as you can see above, there are 4 indicators to initialize a variable
-//the first(int in this example) indicates the value type
-//the second is the variable name, in this case number
-//the third is the = (equal) simbol, which initialize the variable to a value
-//the fourth is the value itself (in this case 3) that is assigned to the variable
-
 
 //Variables have types:
 //int (stands for integer), this value is a number without decimals
