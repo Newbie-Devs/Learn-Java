@@ -5,7 +5,7 @@
 //Variables have types:
 //int (integer, whole numbers ), this value is a number without decimals
 //double, this value can be both values with or without decimals, but will automatically add a .0 if there is an integer number in it 
-//char (stands for character), this value is a single text character. 
+//char (stands for character), holds only a single character. 
 //string, this value is made out of multiple chars which forms a line of text. 
 String name = "David";
 //this creates a variable called name of type string and assigns it the value "David"
