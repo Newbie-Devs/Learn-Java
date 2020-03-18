@@ -40,3 +40,9 @@ int mult3 = mult1 + mult2;
 //In this example we multiplicate two wariables
 
 //The / operator divides one value by another
+int div1 = 1000 / 10;
+
+int div2 = div1 / 2;
+
+int div3 = div1 / div2;
+//In this example we divide one variable by another one
