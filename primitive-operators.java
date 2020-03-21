@@ -41,8 +41,9 @@ int mult3 = mult1 + mult2;
 
 //The / operator divides one value by another
 int div1 = 1000 / 10;
-
+//In this example div1 will store the result of the division
 int div2 = div1 / 2;
-
+//In this example we divide div1 by a number, 2
 int div3 = div1 / div2;
 //In this example we divide one variable by another one
+
