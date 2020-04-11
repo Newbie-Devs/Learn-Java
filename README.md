@@ -22,7 +22,7 @@ You can also star this repository if you like the content.
 - [Learn Solidity](https://github.com/fededev01/Learn-Solidity)
 - [Learn JavaScript](https://github.com/fededev01/Learn-JavaScript)
 - [Learn SQL](https://github.com/fededev01/learn-sql)
-- [The Rust Book](https://github.com/fededev01/book-it)
+- [Learn Python](https://github.com/fededev01/Learn-Python)
 
 
 #### Code of Conduct
